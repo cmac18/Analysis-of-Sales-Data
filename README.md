@@ -1,4 +1,4 @@
-The purpose of this assignment was to identify trends in the data so that the marketing department for the game Pymoli can target marketing efforts to increase sales.
+The purpose of this assignment was to identify trends in the data so that the marketing department for the game Pymoli can target their marketing efforts to increase sales.
 
 My task is to I have analyzed the data for the fantasy game Heroes of Pymoli and generate a report that breaks down the game's purchasing data into meaningful insights.
 
